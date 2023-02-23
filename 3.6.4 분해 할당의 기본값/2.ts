@@ -1,0 +1,1 @@
+const foo = obj.foo !== undefined ? obj.foo : 500;

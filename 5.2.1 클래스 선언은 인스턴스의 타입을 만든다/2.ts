@@ -1,0 +1,1 @@
+const uhyo: User = new User();

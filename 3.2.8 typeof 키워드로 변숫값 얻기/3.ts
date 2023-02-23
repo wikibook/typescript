@@ -1,0 +1,1 @@
+const res: typeof foo = typeof bar;

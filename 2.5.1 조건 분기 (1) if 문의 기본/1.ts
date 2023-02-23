@@ -1,0 +1,1 @@
+if (userName === "") userName = "이름 없음";

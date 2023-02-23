@@ -1,0 +1,1 @@
+const mixed = makeTriple("foo", 123, false);

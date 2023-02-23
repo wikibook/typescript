@@ -1,0 +1,1 @@
+type StringAndNumber = string & number;

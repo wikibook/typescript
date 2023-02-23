@@ -1,0 +1,3 @@
+type MyUserConstructor = {
+  new (): User;
+};

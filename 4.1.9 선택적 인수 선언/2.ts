@@ -1,0 +1,1 @@
+console.log(toLowerOrUpper("Hello", undefined)); // "hello"라고 출력된다

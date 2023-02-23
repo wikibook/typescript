@@ -1,0 +1,1 @@
+const arr2 = [100, "문자열", false];
